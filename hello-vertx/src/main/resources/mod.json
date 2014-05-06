@@ -1,4 +1,5 @@
 {
     "main": "com.intentmedia.vertx.hello.HelloVertx",
-    "auto-redeploy": true
+    "auto-redeploy": true,
+    "preserve-cwd": true
 }
